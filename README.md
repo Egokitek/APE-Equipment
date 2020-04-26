@@ -24,9 +24,9 @@ Sw tools to work in group. The Hackaton dynamics is a experience too.
 Some of us want to create a prototype. A realistic milestone could be the next Maker Faire in bilbao, in october 2020.
 
 ## Built With
-*3D printing
-*Arduino
-*Raspberry-pi
+* 3D printing
+* Arduino
+* raspberry-pi
   
 # Introduction
 
@@ -42,10 +42,10 @@ New protection systems adapted, improved, customizable, low cost and exportable 
 
 ## What we have done over the weekend
 
-*Document the project and define the idea. 
-*Video pitch
-*Github account
-*Several CAD designs and pieces to create a Bill of materials (BOM)
+* Document the project and define the idea. 
+* Video pitch
+* Github account
+* Several CAD designs and pieces to create a Bill of materials (BOM)
 
 ## The value of our solution after the crisis.
 
@@ -69,34 +69,34 @@ https://youtu.be/iN1T1iO8FJM
 
 # Helmet
 
-*Lightweight and compact , is the main protection element. Includes the main control board and sensors, made of plastic (to be determined) using 3D printing techniques. It will consist of an internal frame with sockets to house the board and sensors. This frame will be covered by a strong piece, which will seal the frame.
-*A complement to the helmet is a separate piece to complete the sealing in the neck.. This necklace in turn would carry the connection dock of the sensors of the suit, it would have a quick connection system with the helmet.
-*We will try to adapt, as soon as possible, sensors with I2C bus communication. This brings simplicity and modularity.
+* Lightweight and compact , is the main protection element. Includes the main control board and sensors, made of plastic (to be determined) using 3D printing techniques. It will consist of an internal frame with sockets to house the board and sensors. This frame will be covered by a strong piece, which will seal the frame.
+* A complement to the helmet is a separate piece to complete the sealing in the neck.. This necklace in turn would carry the connection dock of the sensors of the suit, it would have a quick connection system with the helmet.
+* We will try to adapt, as soon as possible, sensors with I2C bus communication. This brings simplicity and modularity.
 
 ## Sensors:
 
-*Pressure: internal pressure sensor for ventilation regulation.
-*Temperature: internal temperature sensor and air inlet temperature sensor.
-*Humidity: internal humidity sensor.
-*Air quality: O2, CO2, NOx levels.
+* Pressure: internal pressure sensor for ventilation regulation.
+* Temperature: internal temperature sensor and air inlet temperature sensor.
+* Humidity: internal humidity sensor.
+* Air quality: O2, CO2, NOx levels.
 
-##Communications:
+## Communications:
 
-*Bluetooth.
-*Wifi.
+* Bluetooth.
+* Wifi.
 
 ## Audio:
 
-*Microphones in stereo arrangement with frequency filtering.
-*Headphones.
+* Microphones in stereo arrangement with frequency filtering.
+* Headphones.
 
-##Protections:
+## Protections:
 
-*Anti impact visor with UV protection.
-*Acoustic protection.
-*Inlet for filtered air intake, with passive filter, or forced ventilation.
-*Air outlet with non-return valve with passive filter.
-*Temperature regulation with liquid recirculation and a peltier plate.
+* Anti impact visor with UV protection.
+* Acoustic protection.
+* Inlet for filtered air intake, with passive filter, or forced ventilation.
+* Air outlet with non-return valve with passive filter.
+* Temperature regulation with liquid recirculation and a peltier plate.
 
 # Suit
 
@@ -104,14 +104,14 @@ Must be a modular element configurable according to needs, composed of different
 
 ## Characteristics:
 
-*Composite fabric (antibacterial, breathable, anti-abrasive).
-*Light and comfortable.
-*Integrated protections.
-*Integrated monitoring sensors.
-*Control screen (flexible touch e-paper or more keypad) on forearm.
-*Adjustable.
-*Easy to dress and undress.
-*Easy access for physiological needs.
+* Composite fabric (antibacterial, breathable, anti-abrasive).
+* Light and comfortable.
+* Integrated protections.
+* Integrated monitoring sensors.
+* Control screen (flexible touch e-paper or more keypad) on forearm.
+* Adjustable.
+* Easy to dress and undress.
+* Easy access for physiological needs.
 
 # Work in progress
 ## More info soon
